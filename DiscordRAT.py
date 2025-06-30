@@ -3,7 +3,7 @@ import subprocess
 import discord
 import asyncio
 
-TOKEN = "MTM4OTI3NDkzODUyNzE4NzA5NQ.GyXvzY.ApiUxl66F1aWdW5wu6nxS954WnvJpFIXsp4GNU"
+TOKEN = ""
 
 # Définition des intents requis
 intents = discord.Intents.default()
